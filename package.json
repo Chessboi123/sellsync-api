@@ -1,7 +1,1 @@
-{
-  "name": "sellsync-api",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": { "start": "node index.js" },
-  "dependencies": { "express": "^4.18.2", "cors": "^2.8.5" }
-}
+"dependencies": { "express": "^4.18.2", "cors": "^2.8.5", "bcryptjs": "^2.4.3", "@supabase/supabase-js": "^2.39.0" }
